@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
+@import url('https://fonts.googleapis.com/css?family=Chivo&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Open Sans';
+}
+
+.navbar-brand{
+    font-size: 90px;
+    font-weight: bold;
+    margin-left: 50px;
+    font-family: 'Chivo';
+    line-height: 100px;
+} 
+
+nav ul{
+    margin-right: 40px;
+    border-radius: 10px;
+}
+
+.wel-info{
+    text-align: center;
+    font-family: 'Chivo';
+}
+
+.wel2{
+    text-align: center;
+    font-family: 'Chivo';
+    font-weight: 600;
+}
